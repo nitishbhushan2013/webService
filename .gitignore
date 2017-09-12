@@ -18,3 +18,7 @@ WebServiceClient/.classpath
 WebServiceClient/.project
 
 *.prefs
+
+webServiceClientWithJar/.classpath
+
+webServiceClientWithJar/.project
