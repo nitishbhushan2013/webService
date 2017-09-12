@@ -1,2 +1,20 @@
 
 .metadata/.mylyn/.taskListIndex/segments_1
+
+.metadata/**
+
+*.fdt
+
+.recommenders/**
+
+Servers/**
+
+*.properties
+
+RemoteSystemsTempFiles/.project
+
+WebServiceClient/.classpath
+
+WebServiceClient/.project
+
+*.prefs
